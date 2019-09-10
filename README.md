@@ -13,12 +13,12 @@
 		   <ul id="mainlist">
 		   	   <li><a href="https://accounts.google.com/ServiceLogin?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount">Gmail</a></li>
 		   	   <li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=yeCeVp3uLcyMmQH3mJ8w&ved=0EKouCBYoAQ">Images</a></li>
-		   	   <li><img id="mg" src="icon.png"></li>
-		   	   <li><img id="mg" src="account.png"></li>
+		   	   <li><img id="mg" src="damier.png"></li>
+		   	   <li><img id="mg" src="connection.png"></li>
 		   </ul>
 	</div>
 
-	              <h1><img id="google" src="google.png"></h1>
+	              <h1><img id="google" src="logogoogle.png"></h1>
 	              <div style="margin-top: -30px">	
 	              <input type="text" name="" >
 	              <div style="margin-top: -36px;margin-left: 1010px;">
